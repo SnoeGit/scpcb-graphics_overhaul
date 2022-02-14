@@ -1,0 +1,671 @@
+v1.0.7 -------------------------------------------------------------------------------------------------------------
+
+GFX:
+	- Updated "monitortexture.jpg" (Monitor overlay texture)
+
+Map:
+	- Updated "concretefloor_normal.png" (Concrete floor normal map)
+	- Updated "concretewall.jpg" (Concrete wall texture)
+	- Updated "concretewallbump.jpg" to "concretewall_normal.png" (Concrete wall normal map)
+	- Updated "dirtymetal.jpg" (Dirty metal texture)
+	- Updated "dirtymetalbump.jpg" to "dirtymetal_normal.png" (Dirty metal normal map)
+	- Updated "ElecBox.jpg" (Electrical box texture)
+	- Updated "glass.png" (Standard glass texture)
+	- Updated "label008.jpg" (SCP-008 containment label texture)
+	- Updated "label008bump.jpg" to "label_generic_normal.png" (SCP-008 containment label normal map)
+	- Updated "label012.jpg" (SCP-012 containment label texture)
+	- Updated "label012bump.jpg" to "label_generic_normal.png" (SCP-012 containment label normal map)
+	- Updated "label035.jpg" (SCP-035 containment label texture)
+	- Updated "label035bump.jpg" to "label_generic_normal.png" (SCP-035 containment label normal map)
+	- Updated "label049.jpg" (SCP-049 containment label texture)
+	- Updated "label049bump.jpg" to "label_generic_normal.png" (SCP-049 containment label normal map)
+	- Updated "label079.jpg" (SCP-079 containment label texture)
+	- Updated "label079bump.jpg" to "label_generic_normal.png" (SCP-079 containment label normal map)
+	- Updated "label106.jpg" (SCP-106 containment label texture)
+	- Updated "label106bump.jpg" to "label_generic_normal.png" (SCP-106 containment label normal map)
+	- Updated "label173.jpg" (SCP-173 containment label texture)
+	- Updated "label173bump.jpg" to "label_generic_normal.png" (SCP-173 containment label normal map)
+	- Updated "label205.jpg" (SCP-205 containment label texture)
+	- Updated "label205bump.jpg" to "label_generic_normal.png" (SCP-205 containment label normal map)
+	- Updated "label372.jpg" (SCP-372 containment label texture)
+	- Updated "label372bump.jpg" to "label_generic_normal.png" (SCP-372 containment label normal map)
+	- Updated "label513.jpg" (SCP-513 containment label texture)
+	- Updated "label513bump.jpg" to "label_generic_normal.png" (SCP-513 containment label normal map)
+	- Updated "label895.jpg" (SCP-895 containment label texture)
+	- Updated "label895bump.jpg" to "label_generic_normal.png" (SCP-895 containment label normal map)
+	- Updated "label914.jpg" (SCP-914 containment label texture)
+	- Updated "label914bump.jpg" to "label_generic_normal.png" (SCP-914 containment label normal map)
+	- Updated "label966.jpg" (SCP-966 containment label texture)
+	- Updated "label966bump.jpg" to "label_generic_normal.png" (SCP-966 containment label normal map)
+	- Updated "label1123.png" (SCP-1123 containment label texture)
+	- Updated "label1123bump.jpg" to "label_generic_normal.png" (SCP-1123 containment label normal map)
+	- Updated "labelmedicalbay.jpg" (Medical Bay label texture)
+	- Updated "labelmedicalbaybump.jpg" to "label_generic_normal.png" (Medical Bay label normal map)
+	- Updated "metal.jpg" (General metal texture)
+	- Updated "metal_darker.jpg" (General metal texture but darker)
+	- Updated "metalbump.jpg" to "metal_normal.png" (General metal normal map)
+	- Updated "metal3.jpg" (Metal floor grating texture)
+	- Updated "metal3bump.jpg" to "metal3_normal.png" (Metal floor grating normal map)
+	- Updated "scplogo.jpg" (SCP Logo texture)
+	- Updated "tilefloor.jpg" (Tile floor texture)
+	- Updated "tilefloorbump.jpg" to "tilefloor_normal.png"(Tile floor normal map)
+	- Updated "white.jpg" (White wall 1 texture)
+	- Updated "whitebump.jpg" to "white_normal.png" (White wall 1 normal map)
+	- Updated "whitewall.jpg" (White wall 2 texture)
+	- Updated "whitewallbump.jpg" to "whitewall_normal.png" (White wall 2 normal map)
+
+Misc:
+	- Fixed a few errors in "materials.ini" (incorrect normal map allocations, typos, etc.)
+	- Fixed several typos in changelog
+	- Removed "ElecBoxbump.jpg" (Electrical box normal map) [Unused]
+	- Removed "miscsigns_normal.png" (Signs 1 master normal map) [Looks Better Without]
+	- Removed "miscsigns2_normal.png" (Signs 2 master normal map) [Looks Better Without]
+	- Removed "miscsigns2bump.jpg" (Signs 2 master normal map) [Redundant]
+	- Removed "miscsigns3_normal.png" (Signs 3 master normal map) [Looks Better Without]
+	- Removed "miscsigns4_normal.png" (Signs 4 master normal map) [Looks Better Without]
+	- Removed "scplogobump.jpg" (SCP Logo normal map) [Looks Better Without]
+	- Removed "SLH_miscsigns_normal.png" (Signs 5 master normal map) [Looks Better Without]
+
+v1.0.6 -------------------------------------------------------------------------------------------------------------
+
+GFX:
+	- Updated "blooddrop1.png" (Blood drop decal 1)
+	- Updated "blooddrop2.png" (Blood drop decal 2)
+	- Updated "GasmaskOverlay.jpg" (Gasmask screen overlay texture)
+
+Items:
+	- Updated "BurntNoteTexture.jpg" (Burnt note texture)
+	- Updated "doc106_2.jpg" (SCP-106 document 2)
+	- Updated "docAC.jpg" (Burnt note screen sprite)
+	- Updated "docdan.jpg" (Dr. Daniel note)
+	- Updated "docL1.jpg" (Dr. L note 1)
+	- Updated "docL2.jpg" (Dr. L note 2)
+	- Updated "docL3.jpg" (Dr. L note 3)
+	- Updated "docL4.jpg" (Dr. L note 4)
+	- Updated "docL5.jpg" (Dr. L note 5)
+	- Updated "docL6.jpg" (Dr. L note 6)
+	- Updated "f4.jpg" (SCP-860-1 log #1)
+	- Updated "f5.jpg" (SCP-860-1 log #2)
+	- Updated "f6.jpg" (SCP-860-1 log #3)
+	- Updated "INV420.jpg" (SCP-420-J inventory icon)
+	- Updated "INV513.jpg" (SCP-513 inventory icon)
+	- Updated "INV714.jpg" (SCP-714 inventory icon)
+	- Updated "INV1025.jpg" (SCP-1025 inventory icon)
+	- Updated "INV1123.jpg" (SCP-1123 inventory icon)
+	- Updated "INV1162_1.jpg" (SCP-1162 key inventory icon)
+	- Updated "INVbn.jpg" (Burnt Note inventory icon)
+	- Updated "mastercard.jpg" (Mastercard item texture)
+	- Updated "note_tex.jpg" (Note texture)
+	- Updated "notetexture.jpg" (Paper note texture)
+	- Updated "papertexture.jpg" (Document Texture)
+	- Updated "SCP-1499.jpg" (SCP-1499 gasmask item texture)
+	- Updated "Vest.png" (Vest item texture)
+	
+Map:
+	- Updated "201_camera_diffuse1.png" (SCP-205 texture)
+	- Updated "concrete.jpg" (SCP-860-1 concrete texture)
+	- Updated "concretebump.jpg" to "concrete_normal.png" (SCP-860-1 concrete normal map)
+	- Updated "controlpanelbump.jpg" to "controlpanel_normal.png" (Server/control panel master texture 1 normal map)
+	- Updated "controlpanel2bump.jpg" to "controlpanel2_normal.png" (Server/control panel master texture 2 normal map
+	- Updated "flat_monitor.jpg" (Computer monitor texture)
+	- Updated "forestfloor.jpg" (SCP-860-1 forest floor texture)
+	- Updated "forestfloorbump.jpg" to "forestfloor_normal.png" (SCP-860-1 forest floor normal map)
+	- Updated "forestpath.jpg" (SCP-860-1 forest path texture)
+	- Updated "forestpathbump.jpg" to "forestpath_normal.png" (SCP-860-1 forest path normal map)
+	- Updated "grit1.jpg" (SCP-1499 dimension texture 1)
+	- Created "grit1_normal.png" (SCP-1499 dimension normal map 1) [Not sure if these 100% work yet]
+	- Updated "grit2.jpg" (SCP-1499 dimention texture 2)
+	- Created "grit2_normal.png" (SCP-1499 dimension normal map 2) [Not sure if these 100% work yet]
+	- Updated "grit3.jpg" (SCP-1499 dimention texture 2)
+	- Created "grit3_normal.png" (SCP-1499 dimension normal map 2) [Not sure if these 100% work yet]
+	- Updated "helmet.jpg" (Dead guard helmet texture)
+	- Updated "helmet_guard.jpg" (Standard guard helmet texture)
+	- Updated "medibay.jpg" (Medical Bay wall texture)
+	- Updated "medibaybump.jpg" to "medibay_normal.png" (Medical Bay wall normal map)
+	- Changed "miscsignsbump.jpg" to "miscsigns_normal.png" (Signs 1 master normal map)
+	- Updated "miscsigns2.jpg" (Signs 2 master texture)
+	- Updated "miscsigns2bump.jpg" to "miscsigns2_normal.png" (Signs 2 master normal map)
+	- Updated "miscsigns3.jpg" (Signs 3 master texture)
+	- Updated "miscsigns3bump.jpg" to "miscsigns3_normal.png" (Signs 3 master normal map)
+	- Updated "miscsigns4.jpg" (Signs 4 master texture)
+	- Updated "miscsigns4bump.jpg" to "miscsigns4_normal.png" (Signs 4 master normal map)
+	- Updated "MTF_P90_diffuse02.jpg" (P90 weapon texture)
+	- Updated "papertexture.jpg" (Document Texture)
+	- Updated "pdfloor.jpg" (Pocket dimension floor texture)
+	- Updated "pdfloorbump.jpg" to "pdfloor_normal.png" (Pocket dimension floor normal map)
+	- Updated "pdwall.jpg" (Pocket dimension wall texture)
+	- Updated "pdwallbump.jpg" to "pdwall_normal.png" (Pocket dimension wall normal map)
+	- Updated "rockmoss.jpg" (Pocket dimension rock texture)
+	- Updated "rockmossbump.jpg" to "rockmoss_normal.png" (Pocket dimension rock normal map)
+	- Updated "scp_860_testingdoor_diffuse.png" (SCP-860-1 door texture)
+	- Updated "SLH_miscsigns.jpg" (Signs 5 master texture)
+	- Created "SLH_miscsigns_normal.png" (Signs 5 master normal map)
+
+NPCs:
+	- Updated "035.jpg" (SCP-035 mask texture)
+	- Updated "035victim.jpg" (SCP-035 body texture)
+	- Updated "106face.jpg" (SCP-106 face overlay)
+	- Updated "106victim.jpg" ([SPOILERS] Mr. Maynard corpse texture)
+	- Updated "860_diffuse.jpg" (SCP-860-2 texture)
+	- Updated "860_eyes.jpg" (860-2 eye glow jpg)
+	- Updated "860_eyes.png" (860-2 eye glow png)
+	- Updated "860_leaf.png" (860-2 leaf texture)
+	- Updated "1499_King.jpg" (SCP-1499-1 king variation texture)
+	- Updated "1499_normal.jpg" (SCP-1499-1 normal variation texture)
+	- Updated "corpse.jpg" (Corpse body texture)
+	- Updated "oldmaneyes.jpg" (SCP-106 throne room eyes sprite)
+	- Updated "papertexture.jpg" (Document Texture)
+	- Updated "pdplane.png" (Pocket Dimension Trench Plane 1 texture)
+	- Updated "pdplaneeye.png" (Pocket Dimension Trench Plane 2 texture)
+
+Sky:
+	- Updated "1499sky_back.jpg" (Back SCP-1499 dimension skybox element)
+	- Updated "1499sky_front.jpg" (Front SCP-1499 dimension skybox element)
+	- Updated "1499sky_left.jpg" (Left SCP-1499 dimension skybox element)
+	- Updated "1499sky_right.jpg" (Right SCP-1499 dimension skybox element)
+	- Updated "1499sky_up.jpg" (Up SCP-1499 dimension skybox element)
+	- Updated "sky_back.jpg" (Back normal skybox element)
+	- Updated "sky_front.jpg" (Front normal skybox element)
+	- Updated "sky_left.jpg" (Left normal skybox element)
+	- Updated "sky_right.jpg" (Right normal skybox element)
+	- Updated "sky_up.jpg" ("Up" normal skybox element)
+
+Misc:
+	- Fixed typos and some formatting in the changelog
+
+v1.0.5.1 -------------------------------------------------------------------------------------------------------------
+
+	More texture improvements, especially on smaller textures that have looked terrible since 1.0. A few
+improvements to larger textures and a few more loading screen and menu improvements. Additionally slowly updating
+naming convention for "bump" map files as well as now exporting them as higher quality pngs and being much more
+scrutinous with what textures actually use them.
+
+Items:
+	- Updated "firstaidkit.jpg" (Normal first aid kit item texture)
+	- Updated "firstaidkit2.jpg" (Blue first aid kit item texture)
+	- Updated "gasmask.jpg" (Gasmask item texture)
+	- Updated "nav.jpg" (Navigator item texture)
+	- Updated "radio.png" (Radio item texture)
+	- Updated "wallet_tex.jpg" (Wallet item texture)
+
+Loading Screens:
+	- Replaced "mtf.png" with "mtf_2.png"
+	- Updated "scp-096.png" to "scp-096_1.png"
+	- Created "scp-096_2.png" (previously "scp-096.png")
+
+Map:
+	- Updated "2_office_lamps_dif.jpg" (Lamp map object master texture)
+	- Updated "294.jpg" (SCP-294 texture)
+	- Updated "concretefloor.jpg" (Concrete floor texture)
+	- Updated "concretefloorbump.jpg" to "concretefloor_normal.png" (Concrete floor normal map)
+	- Updated "concretemoss.jpg" (Mossy concrete texture)
+	- Updated "concretemossbump.jpg" to "concretemoss_normal.png" (Mossy concrete normal map)
+	- Updated "ctwalls.png" (Heavy containment brick wall 1 texture)
+	- Updated "ctwalls2.png" (Heavy containment brick wall 2 texture)
+	- Updated "metalpanelsbump.jpg" to "metalpanels_normal.png" (Metal panel wall normal map)
+	- Changed "miscbump.jpg" to "misc_normal.png" (Miscellaneous mechanical object normal map)
+	- Updated "officeseat_a.jpg" (Office chair object texture)
+	- Updated "scp-012_0.jpg" (SCP-012 texture 1)
+	- Updated "scp-012_1.jpg" (SCP-012 texture 2)
+	- Updated "scp-012_2.jpg" (SCP-012 texture 3)
+	- Updated "scp-012_3.jpg" (SCP-012 texture 4)
+	- Reverted "tree1.jpg" (I believe this is for the now removed scp-038)
+	- Updated "tree1.jpg" (SCP-860-1 tree texture)
+	- Updated "wood.jpg" (General wood texture)
+	- Created "wood_normal.png" (General wood normal map)
+
+NPCs:
+	- Updated "106_diffuse.jpg" (SCP-106 texture)
+	- Updated "guard_diffuse.jpg" (Guard body texture)
+
+Misc:
+	- Updated Promotional Material Organization
+	- Fixed a few errors in "materials.ini" (incorrect normal map allocations, typos, etc.)
+	- Fixed several typos in changelog and made it more consistent with the 8-bit breach changelog
+	- Fixed an issue with specific textures not being used since they weren't in the props folder
+	- Included "d3dim700.dll" so the game can be ran at higher resolutions
+	- Removed "CameraTexturebump.jpg" (Camera object normal map) [Unused]
+	- Removed "caution_teslabump.jpg" (Tesla gate warning normal map) [Unused]
+	- Removed "officeseat_abump.jpg" (Office chair object normal map) [Unused]
+	- Removed "tree1bump.jpg" (I believe this is for the now removed scp-038) [Unused]
+
+v1.0.5 -------------------------------------------------------------------------------------------------------------
+
+	Large changes, upscales, and improvements to important textures and normal maps. General changes to
+textures that were over-sharpened or too high contrast. Removal of unnecessary, unused, and redundant normal maps.
+Preparations to use a custom built executable which could enable higher resolution menu screens and performance 
+improvements. Remake of loading screen formatting with a few loading screen remakes. 
+
+GFX:
+	- Updated "dust.jpg" (Dust particle texture) [Eat your heart out over our HD dust particles)
+	- Updated "flash.jpg" (Muzzle flash effect texture)
+	- Updated "SL_monitors.jpg" (Security Room Camera Screens)
+	- Updated "SL_monitors_checkpoint.jpg" (Security Room Camera Screens for Checkpoints)
+
+Loading Screens (no choose your own resolution needed, all are the size of vanilla):
+	- Changed 012.jpg to scp-012.png
+	- Updated 035.jpg to scp-035.png
+	- Updated 049.jpg to scp-049.png
+	- Changed 066.jpg to scp-066.png
+	- Changed 079.jpg to scp-079.png
+	- Updated 096.png to scp-096.png
+	- Updated 106.jpg to scp-106.png
+	- Changed 173.jpg to scp-173.png
+	- Changed 205.jpg to scp-205.png
+	- Changed 294.jpg to scp-294.png
+	- Changed 372.jpg to scp-372.png
+	- Changed 427.jpg to scp-427.png
+	- Changed 500.jpg to scp-500.png
+	- Changed 513.jpg to scp-513.png
+	- Changed 682.jpg to scp-682.png
+	- Changed 714.jpg to scp-714.png
+	- Changed 860.jpg to scp-860.png
+	- Changed 895.jpg to scp-895.png
+	- Changed 914.jpg to scp-914.png
+	- Changed 939.jpg to scp-939.png
+	- Changed 966.jpg to scp-966.png
+	- Changed 970.jpg to scp-970.png
+	- Changed 1025.jpg to scp-1025.png
+	- Changed 1123.jpg to scp-1123.png
+	- Changed 1162.jpg to scp-1162.png
+	- Updated 1499.jpg to scp-1499.png
+	- Updated chaos.jpg to chaos.png
+	- Changed classd.jpg to class-d.png
+	- Changed cwm.jpg to cwm.png
+	- Changed foundationlogo.jpg to scpfoundation.png
+	- Updated loadingback.jpg
+	- Updated mtf.jpg to mtf.png (mtf2.png for alternate version, will be decided later)
+	- Changed nvg.jpg to nvg.png
+
+Map:
+	- Updated "ceiling.jpg" (Ceiling texture)
+	- Updated "ceilingbump.jpg" (Ceiling normal map)
+	- Updated "concrete.jpg" (SCP-860-1 concrete texture)
+	- Updated "concretebump.jpg" (SCP-860-1 concrete normal map)
+	- Updated "concretefloor.jpg" (Concrete floor texture)
+	- Updated "concretefloorbump.jpg" (Concrete floor normal map)
+	- Updated "concretewall.jpg" (Concrete wall texture)
+	- Updated "concretewallbump.jpg" (Concrete wall normal map)
+	- Updated "containment_doors.jpg" (Containment door texture)
+	- Updated "controlpanel.jpg" (Server/control panel master texture 1)
+	- Updated "controlpanel2.jpg" (Server/control panel master texture 2)
+	- Updated "ctwalls.png" (Heavy containment brick wall 1 texture)
+	- Updated "ctwallsbump.jpg" (Heavy containment brick wall 1 normal map)
+	- Updated "dirtymetal.jpg" (Dirty metal texture)
+	- Updated "dirtymetalbump.jpg" (Dirty metal normal map)
+	- Updated "Door01.jpg" (Light containment zone general door texture)
+	- Updated "Door02.jpg" (Class D cell door texture)
+	- Updated "gearsbump.jpg" (SCP-914 gear normal map)
+	- Updated "metal.jpg" (General metal texture)
+	- Updated "metal_darker.jpg" (General metal texture but darker)
+	- Updated "metalbump.jpg" (General metal normal map)
+	- Updated "metalpanels.jpg" (Metal panel wall texture)
+	- Updated "metalpanelsbump.jpg" (Metal panel wall normal map)
+	- Updated "metalpanels2.jpg" (Metal panel wall 2 texture)
+	- Updated "metalpanels2bump.jpg" (Metal panel wall 2 normal map)
+	- Updated "misc.jpg" (Miscellaneous mechanical object texture)
+	- Updated "miscbump.jpg" (Miscellaneous mechanical object normal map)
+	- Updated "miscsigns.jpg" (Signs 1 master texture)
+	- Updated "miscsignsbump.jpg" (Signs 1 master normal map)
+	- Updated "officewall.jpg" (Entrance zone wall texture)
+	- Updated "Pipes.jpg" (Rusted pipes texture)
+	- Updated "Pipes_NoRust2.jpg" (Non-rusted pipes texture)
+	- Updated "Pipesbump.jpg" (General pipes normal map) [Might be redundant]
+	- Updated "scplogo.jpg" (SCP Logo texture)
+	- Updated "scplogobump.jpg" (SCP Logo normal map)
+	- Updated "servers1.jpg" (Server room server master texture)
+	- Updated "servers1bump.jpg" (Server room server master normal map)
+	- Updated "tilefloor.jpg" (Tile floor texture)
+	- Updated "tilefloorbump.jpg" (Tile floor normal map)
+	- Updated "vent.jpg" (Vent texture)
+	- Updated "ventbump.jpg" (Vent normal map)
+	- Updated "white.jpg" (White wall 1 texture)
+	- Updated "whitebump.jpg" (White wall 1 normal map)
+	- Updated "whitewall.jpg" (White wall 2 texture)
+	- Updated "whitewallbump.jpg" (White wall 2 normal map)
+
+Menu:
+	- Updated "173back.jpg" (SCP-173 main menu element)
+
+NPCs:
+	- Updated "173texture.jpg" (SCP-173 texture)
+	- Updated "guard_diffuse.jpg" (Guard body texture)
+	- Updated "MTF_newdiffuse02.jpg" (MTF texture)
+	- Updated "MTF_P90_diffuse02.jpg" (P90 weapon texture)
+	- Updated "scp-049_clothing_diffuse4.jpg" (SCP-049 body texture)
+	- Updated "SCP096.jpg" (SCP-096 body texture)
+	- Updated "scp-939_licker_diffusetest01.jpg" (SCP-939 body texture)
+
+Misc:
+	- Updated "credits.txt" (Game credits text file)
+	- Updated Promotional Material Organization
+	- Added Content for 1.0.5 to Promotional Material
+	- Fixed mistakes and typos in mod changelog
+	- Removed "294bump.jpg" (SCP-294 normal map) [Unused]
+	- Removed "CameraTexturebump.jpg" (Camera object normal map) [Redundant]
+	- Removed "flat_monitorbump.jpg" (Computer monitor normal map) [Redundant]
+	- Removed "keyboardbump.jpg" (Computer keyboard normal map) [Redundant]
+	- Removed "KeyPadBump.jpg" (Button/Keycard reader/Keypad/Scanner master normal map) [Redundant]
+	- Removed "op-table-light-bloodbump.jpg" (Medical Bay exam table hanging light object normal map) [Unused]
+	- Removed "rockbump.jpg" (SCP-860-1 rock normal map) [Redundant]
+	- Removed "zimmerframe1bump.jpg" (Medical bay room frame normal map) [Unused]
+
+v1.0.1 -------------------------------------------------------------------------------------------------------------
+
+	General changes to a few textures to make them less overly sharpened, a few normal map changes that
+previously looked not that great, a few changes to UI elements to make them less 'over-contrasty', and some general
+texture cleanup for some of them that didn't look great.
+
+GFX:
+	- Updated "AIface.jpg" (SCP-079 monitor overlay texture 1)
+	- Updated "AIface2.jpg" (SCP-079 monitor overlay texture 2)
+	- Updated "BlinkMeter.jpg" (Blink Meter UI element)
+	- Updated "decal3.png" (Blood decal 1)
+	- Updated "decal4.png" (Blood decal 2)
+	- Updated "GasmaskOverlay.jpg" (Gasmask screen overlay texture)
+	- Updated "monitortexture.jpg" (Monitor overlay texture)
+	- Updated "StaminaMeter.jpg" (Sprint Meter UI element)
+
+Map:
+	- Updated "concretefloor.jpg" (Concrete floor texture)
+	- Updated "controlpanel.jpg" (Server/control panel master texture 1)
+	- Updated "controlpanelbump.jpg" (Server/control panel master texture 1 normal map)
+	- Updated "controlpanel2.jpg" (Server/control panel master texture 2)
+	- Updated "controlpanel2bump.jpg" (Server/control panel master texture 2 normal map
+	- Updated "Door01.jpg" (Light containment zone general door texture)
+	- Updated "white.jpg" (White wall 1 texture)
+	- Updated "whitewall.jpg" (White wall 2 texture)
+	- Updated "whitewallbump.jpg" (White wall 2 normal map)
+
+Misc:
+	- Changed most of the default options to be decently sensible
+	- Removed "boxfile_abump.jpg" (Binder master normal map)
+	- Removed "cabinet_abump.jpg" (Cabinet object normal map)
+	- Removed "Door02bump.jpg" (Class D cell door normal map)
+	- Removed "woodbump.jpg" (General wood normal map)
+
+v1.0 ---------------------------------------------------------------------------------------------------------------
+
+GFX:
+	- Updated "apachetexture.jpg" (Apache NPC texture)
+	- Updated "BlinkIcon.png" (Blink Icon UI element)
+	- Updated "BlinkMeter.jpg" (Blink Meter UI element)
+	- Updated "cursor.PNG" (Cursor UI element)
+	- Updated "decal1.png" (SCP-106 corrosion decal 1)
+	- Updated "decal2.png" (SCP-106 corrosion decal 2)
+	- Updated "decal5.png" (SCP-173 residue decal 1)
+	- Updated "flash.jpg" (Gunshot muzzle flash sprite)
+	- Updated "GasmaskOverlay.jpg" (Gasmask screen overlay texture)
+	- Updated "handsymbol.jpg" (Interact 1 UI element)
+	- Updated "handsymbol2.jpg" (Interact 2 UI Element)
+	- Updated "light1.jpg" (Light 1 sprite)
+	- Updated "lightsprite.jpg" (Light flare sprite)
+	- Updated "smoke.png" (Black smoke sprite)
+	- Updated "smoke2.png" (White smoke sprite)
+	- Updated "sneakicon.png" (Sneak Icon UI element)
+	- Updated "sprinticon.png" (Sprint Icon UI element)
+	- Updated "StaminaMeter.jpg" (Sprint Meter UI element)
+
+Items:
+	- Updated "427.jpg" (SCP-427 item texture)
+	- Updated "513.jpg" (SCP-513 item texture)
+	- Updated "doc173.jpg" (SCP-173 document view-texture)
+	- Updated "doc427.jpg" (SCP-427 document view-texture)
+	- Updated "docORI.jpg" (Orientation Leaflet document view-texture)
+	- Updated "gasmask.jpg" (Gasmask item texture)
+	- Updated "hazmat.jpg" (Hazmat Suit item texture)
+	- Updated "keycard1.jpg" (Level 1 Keycard item texture)
+	- Updated "keycard2.jpg" (Level 2 Keycard item texture)
+	- Updated "keycard3.jpg" (Level 3 Keycard item texture)
+	- Updated "keycard4.jpg" (Level 4 Keycard item texture)
+	- Updated "keycard5.jpg" (Level 5 Keycard item texture)
+	- Updated "keycardomni.jpg" (Omnicard item texture)
+	- Updated "nav.jpg" (Navigator item texture)
+	- Updated "papertexture.jpg" (Paper document texture)
+	- Updated "radio.png" (Radio item texture)
+	- Updated "scp714.jpg" (SCP-714 item texture)
+	- Updated "shand_diffuse.png" (Severed Hand 1 item texture)
+	- Updated "shand2.png" (Severed Hand 2 item texture)
+	- Updated "skull1.png" (SCP-1123 item texture)
+
+Loading Screens (Pick the folder containing loading screens that match your play resolution):
+	- Updated "012.jpg"
+	- Updated "035.jpg"
+	- Updated "049.jpg"
+	- Updated "066.jpg"
+	- Updated "079.jpg"
+	- Updated "096.jpg"
+	- Updated "106.jpg"
+	- Updated "173.jpg"
+	- Updated "294.jpg"
+	- Updated "372.jpg"
+	- Updated "427.jpg"
+	- Updated "682.jpg"
+	- Updated "714.jpg"
+	- Updated "860.jpg"
+	- Updated "914.jpg"
+	- Updated "966.jpg"
+	- Updated "1074.jpg"
+	- Updated "1123.jpg"
+	- Updated "1162.jpg"
+	- Updated "1499.jpg"
+	- Updated "chaos.jpg"
+	- Updated "classd.jpg"
+	- Updated "cwm.jpg"
+	- Updated "foundationlogo.jpg"
+	- Updated "loadingscreens.ini"
+	- Updated "mtf.jpg"
+	- Updated "nvg.jpg"
+
+Map:
+	- Updated "2_office_lamps_dif.jpg" (Lamp map object master texture)
+	- Created "294bump.jpg" (SCP-294 normal map)
+	- Updated "alcohol-hand-gel-v2-256-blood.jpg" (Medical bay blood bag texture)
+	- Updated "boxfile_a.jpg" (Binder master texture)
+	- Created "boxfile_abump.jpg" (Binder master normal map)
+	- Updated "cabinet_a.jpg" (Cabinet object texture)
+	- Created "cabinet_abump.jpg" (Cabinet object normal map)
+	- Updated "cable_black.jpg" (Miscellaneous black texture)
+	- Updated "CameraTexture.jpg" (Camera object texture)
+	- Created "CameraTexturebump.jpg" (Camera object normal map)
+	- Updated "caution_tesla.jpg" (Tesla gate warning texture)
+	- Created "caution_teslabump.jpg" (Tesla gate warning normal map)
+	- Updated "ceiling.jpg" (Ceiling texture)
+	- Created "ceilingbump.jpg" (Ceiling normal map)
+	- Updated "cloth.jpg" (Cloth texture)
+	- Created "clothbump.jpg" (Cloth normal map)
+	- Updated "concrete.jpg" (SCP-860-1 concrete texture)
+	- Created "concretebump.jpg" (SCP-860-1 concrete normal map)
+	- Updated "concretefloor.jpg" (Concrete floor texture)
+	- Updated "concretefloorbump.jpg" (Concrete floor normal map)
+	- Updated "concretemoss.jpg" (Mossy concrete texture)
+	- Created "concretemossbump.jpg" (Mossy concrete normal map)
+	- Updated "concretewall.jpg" (Concrete wall texture)
+	- Updated "concretewallbump.jpg" (Concrete wall normal map)
+	- Updated "containment_doors.jpg" (Containment door texture)
+	- Updated "controlpanel.jpg" (Server/control panel master texture 1)
+	- Created "controlpanelbump.jpg" (Server/control panel master texture 1 normal map)
+	- Updated "controlpanel2.jpg" (Server/control panel master texture 2)
+	- Created "controlpanel2bump.jpg" (Server/control panel master texture 2 normal map
+	- Updated "ctwalls.png" (Heavy containment brick wall 1 texture)
+	- Created "ctwallsbump.jpg" (Heavy containment brick wall 1 normal map)
+	- Updated "decal1.png" (SCP-106 decal texture)
+	- Updated "dirtymetal.jpg" (Dirty metal texture)
+	- Updated "dirtymetalbump.jpg" (Dirty metal normal map)
+	- Updated "doctors.jpg" (Entrance zone doctor posters master texture)
+	- Updated "Door02.jpg" (Class D cell door texture)
+	- Created "Door02bump.jpg" (Class D cell door normal map)
+	- Updated "quest173.png" (The best image in the game)
+	- Updated "ElecBox.jpg" (Electrical box texture)
+	- Created "ElecBoxbump.jpg" (Electrical box normal map)
+	- Updated "flat_monitor.jpg" (Computer monitor texture)
+	- Created "flat_monitorbump.jpg" (Computer monitor normal map)
+	- Updated "forestfloor.jpg" (SCP-860-1 forest floor texture)
+	- Created "forestfloorbump.jpg" (SCP-860-1 forest floor normal map)
+	- Updated "forestpath.jpg" (SCP-860-1 forest path texture)
+	- Created "forestpathbump.jpg" (SCP-860-1 forest path normal map)
+	- Updated "gears.jpg" (SCP-914 gear texture)
+	- Created "gearsbump.jpg" (SCP-914 gear normal map)
+	- Updated "glass.png" (Standard glass texture)
+	- Created "glassbump.jpg" (Standard glass normal map)
+	- Updated "grass2.jpg" (Outside "grass" texture)
+	- Updated "grass2bump.jpg" (Outside "grass" normal map)
+	- Updated "gravel.jpg" (Outside gravel texture)
+	- Updated "gravelbump.jpg" (Outside gravel normal map)
+	- Updated "keyboard.jpg" (Computer keyboard texture)
+	- Created "keyboardbump.jpg" (Computer keyboard normal map)
+	- Updated "KeyPad.jpg" (Button/Keycard reader/Keypad/Scanner master texture)
+	- Created "KeyPadBump.jpg" (Button/Keycard reader/Keypad/Scanner master normal map)
+	- Updated "label008.jpg" (SCP-008 containment label texture)
+	- Created "label008bump.jpg" (SCP-008 containment label normal map)
+	- Updated "label012.jpg" (SCP-012 containment label texture)
+	- Created "label012bump.jpg" (SCP-012 containment label normal map)
+	- Updated "label035.jpg" (SCP-035 containment label texture)
+	- Created "label035bump.jpg" (SCP-035 containment label normal map)
+	- Updated "label049.jpg" (SCP-049 containment label texture)
+	- Created "label049bump.jpg" (SCP-049 containment label normal map)
+	- Updated "label079.jpg" (SCP-079 containment label texture)
+	- Created "label079bump.jpg" (SCP-079 containment label normal map)
+	- Updated "label106.jpg" (SCP-106 containment label texture)
+	- Created "label106bump.jpg" (SCP-106 containment label normal map)
+	- Updated "label173.jpg" (SCP-173 containment label texture)
+	- Created "label173bump.jpg" (SCP-173 containment label normal map)
+	- Updated "label205.jpg" (SCP-205 containment label texture)
+	- Created "label205bump.jpg" (SCP-205 containment label normal map)
+	- Updated "label372.jpg" (SCP-372 containment label texture)
+	- Created "label372bump.jpg" (SCP-372 containment label normal map)
+	- Updated "label513.jpg" (SCP-513 containment label texture)
+	- Created "label513bump.jpg" (SCP-513 containment label normal map)
+	- Updated "label895.jpg" (SCP-895 containment label texture)
+	- Created "label895bump.jpg" (SCP-895 containment label normal map)
+	- Updated "label914.jpg" (SCP-914 containment label texture)
+	- Created "label914bump.jpg" (SCP-914 containment label normal map)
+	- Updated "label966.jpg" (SCP-966 containment label texture)
+	- Created "label966bump.jpg" (SCP-966 containment label normal map)
+	- Updated "label1123.png" (SCP-1123 containment label texture)
+	- Created "label1123bump.jpg" (SCP-1123 containment label normal map)
+	- Updated "labelmedicalbay.jpg" (Medical Bay label texture)
+	- Created "labelmedicalbaybump.jpg" (Medical Bay label normal map)
+	- Updated "medibay.jpg" (Medical Bay wall texture)
+	- Created "medibaybump.jpg" (Medical Bay wall normal map)
+	- Updated "metal.jpg" (General metal texture)
+	- Updated "metal_darker.jpg" (General metal texture but darker)
+	- Created "metalbump.jpg" (General metal normal map)
+	- Updated "metal3.jpg" (Metal floor grating texture)
+	- Updated "metal3bump.jpg" (Metal floor grating normal map)
+	- Updated "metalpanels.jpg" (Metal panel wall texture)
+	- Updated "metalpanelsbump.jpg" (Metal panel wall normal map)
+	- Updated "metalpanels2.jpg" (Metal panel wall 2 texture)
+	- Updated "metalpanels2bump.jpg" (Metal panel wall 2 normal map)
+	- Updated "misc.jpg" (Miscellaneous mechanical object texture)
+	- Updated "miscbump.jpg" (Miscellaneous mechanical object normal map)
+	- Updated "miscsigns.jpg" (Signs 1 master texture)
+	- Created "miscsignsbump.jpg" (Signs 1 master normal map)
+	- Updated "miscsigns2.jpg" (Signs 2 master texture)
+	- Created "miscsigns2bump.jpg" (Signs 2 master normal map)
+	- Updated "miscsigns3.jpg" (Signs 3 master texture)
+	- Created "miscsigns3bump.jpg" (Signs 3 master normal map)
+	- Updated "miscsigns4.jpg" (Signs 4 master texture)
+	- Created "miscsigns4bump.jpg" (Signs 4 master normal map)
+	- Updated "officeseat_a.jpg" (Office chair object texture)
+	- Created "officeseat_abump.jpg" (Office chair object normal map)
+	- Updated "officewall.jpg" (Entrance zone wall texture)
+	- Created "officewallbump.jpg" (Entrance zone wall normal map)
+	- Updated "op-table-light-blood.jpg" (Medical Bay exam table hanging light object texture)
+	- Created "op-table-light-bloodbump.jpg" (Medical Bay exam table hanging light object normal map)
+	- Updated "papertexture.jpg"(Paper document texture but in the rooms)
+	- Updated "pdfloor.jpg" (Pocket dimension floor texture)
+	- Created "pdfloorbump.jpg" (Pocket dimension floor normal map)
+	- Updated "pdwall.jpg" (Pocket dimension wall texture)
+	- Created "pdwallbump.jpg" (Pocket dimension wall normal map)
+	- Updated "Pipes.jpg" (Rusted pipes texture)
+	- Created "Pipesbump.jpg" (Rusted pipes normal map)
+	- Updated "rock.jpg" (SCP-860-1 rock texture)
+	- Created "rockbump.jpg" (SCP-860-1 rock normal map)
+	- Updated "rockmoss.jpg" (Pocket dimension rock texture)
+	- Updated "rockmossbump.jpg" (Pocket dimension rock normal map)
+	- Updated "scp1162.jpg" (SCP-1162 texture)
+	- Updated "scp1162bump.jpg" (SCP-1162 normal map)
+	- Updated "scp1162wall.jpg" (SCP-1162 surrounding wall texture)
+	- Created "scp1162wallbump.jpg" (SCP-1162 surrounding wall normal map)
+	- Updated "scplogo.jpg" (SCP Logo texture)
+	- Created "scplogobump.jpg" (SCP Logo normal map)
+	- Updated "screen.jpg" (Medical bay sheets and screens texture)
+	- Updated "servers1.jpg" (Server room server master texture)
+	- Created "servers1bump.jpg" (Server room server master normal map)
+	- Updated "tesla.jpg" (Tesla gate electricity sprite)
+	- Updated "tilefloor.jpg" (Tile floor texture)
+	- Updated "tilefloorbump.jpg" (Tile floor normal map)
+	- Updated "tree1.jpg" (Tree texture)
+	- Created "tree1bump.jpg" (Tree normal map)
+	- Updated "tree2.png" (Tree sprite)
+	- Updated "vent.jpg" (Vent texture)
+	- Updated "ventbump.jpg" (Vent normal map)
+	- Updated "white.jpg" (White wall 1 texture)
+	- Created "whitebump.jpg" (White wall 1 normal map)
+	- Updated "whitewall.jpg" (White wall 2 texture)
+	- Updated "whitewallbump.jpg" (White wall 2 normal map)
+	- Updated "wood.jpg" (General wood texture)
+	- Created "woodbump.jpg" (General wood normal map)
+	- Updated "zimmerframe1.jpg" (Medical bay room frame texture)
+	- Created "zimmerframe1bump.jpg" (Medical bay room frame normal map)
+
+Menu:
+	- Updated "173back.jpg" (SCP-173 main menu element)
+	- Updated "back.jpg" (Primary main menu element)
+	- Updated "launcher.jpg" (Primary launcher menu element)
+	- Updated "menublack.jpg" (Miscellaneous black menu element)
+	- Updated "menuwhite.jpg" (Miscellaneous white menu element)
+	- Updated "pausemenu.jpg" (Primary pause menu element)
+	- Updated "scptext.jpg" (SCP text main menu element)
+
+NPCs:
+	- Deleted all NPC related normal maps. They're useless and aren't used anywhere in the code
+	  (This might change in the future, probably not)
+	- Updated "035.jpg" (SCP-035 mask texture)
+	- Updated "035victim.jpg" (SCP-035 body texture)
+	- Updated "106_diffuse.jpg" (SCP-106 texture)
+	- Updated "106victim.jpg" ([SPOILERS] Mr. Maynard corpse texture)
+	- Updated "173texture.jpg" (SCP-173 texture)
+	- Updated "682arm.jpg" (SCP-682 arm texture)
+	- Updated "860_diffuse.jpg" (SCP-860-2 texture)
+	- Updated "966_diffusetest_1024_01.jpg" (SCP-966 texture)
+	- Updated "1048_diffusetest01.jpg" (SCP-1024 texture)
+	- Updated "1499_normal.jpg" (SCP-1499-1 normal variation texture)
+	- Updated "body1.jpg" (Class D corpse texture)
+	- Updated "classd1.jpg" (Class D 1 texture)
+	- Updated "classd2.jpg" (Class D 2 texture)
+	- Updated "classd3.jpg" (Class D 3 texture)
+	- Updated "clerk_d1.jpg" (Clerk texture)
+	- Updated "duck3.png" (SCP Duck variation 3 texture)
+	- Updated "guard_diffuse.jpg" (Guard body texture)
+	- Updated "helmet.jpg" (Dead guard helmet texture)
+	- Updated "janitor.jpg" (Janitor texture)
+	- Updated "MTF_newdiffuse02.jpg" (MTF texture)
+	- Updated "MTF_P90_diffuse02.jpg" (P90 weapon texture)
+	- Updated "papertexture.jpg" (Guard paper texture)
+	- Updated "pdplane.png" (Pocket Dimension Trench Plane 1 texture)
+	- Updated "pdplaneeye.png" (Pocket Dimension Trench Plane 2 texture)
+	- Updated "pj.jpg" (SCP-372 body texture)
+	- Updated "pjface.jpg" (SCP-372 face texture)
+	- Updated "scientist.jpg" (Intro scientist 1 texture)
+	- Updated "scientist2.jpg" (Intro scientist 2 texture)
+	- Updated "scp_1048a_512_diffusetest01.png" (SCP-1048a texture)
+	- Updated "scp-049_clothing_diffuse4.jpg" (SCP-049 body texture)
+	- Updated "scp-049_mask_diffuse5.jpg" (SCP-049 mask texture)
+	- Updated "scp-066_diffuse01.jpg" (SCP-066 texture)
+	- Updated "SCP096.jpg" (SCP-096 body texture)
+	- Updated "SCP096EYES.jpg" (SCP-096 eyes texture)
+	- Updated "scp-939_licker_diffusetest01.jpg" (SCP-939 body texture)
+	- Updated "scp-939_licker_extremities2.png" (SCP-939 extras texture)
+	- Updated "scp-1048_penandpaper_diffuse01.png" (SCP-1048 paper and pen texture)
+	- Updated "surgeonzombie.jpg" (SCP-049-1 surgeon zombie texture)
+	- Updated "tentacle.jpg" (SCP-035 tentacle texture)
+	- Updated "zombie.jpg" (SCP-049-1 guard zombie texture)
+
+Sky:
+	- Updated "sky_back.jpg" (Back normal skybox element)
+	- Updated "sky_front.jpg" (Front normal skybox element)
+	- Updated "sky_left.jpg" (Left normal skybox element)
+	- Updated "sky_right.jpg" (Right normal skybox element)
+	- Updated "sky_up.jpg" ("Up" normal skybox element)
