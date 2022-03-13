@@ -1,5 +1,10 @@
 v1.0.6 -------------------------------------------------------------------------------------------------------------
 
+"Dimensional Update"
+	Dramatic improvements to textures used for the pocket dimension, 860-1 dimension, and 1499 dimension. Miscellanious
+improvements to various textures including item and NPC textures. Additionally improved skybox tiles and some dimension
+based spirtes, decals, etc.
+
 GFX:
 	- Updated "blooddrop1.png" (Blood drop decal 1)
 	- Updated "blooddrop2.png" (Blood drop decal 2)
@@ -48,8 +53,8 @@ Map:
 	- Created "grit1_normal.png" (SCP-1499 dimension normal map 1) [Not sure if these 100% work yet]
 	- Updated "grit2.jpg" (SCP-1499 dimention texture 2)
 	- Created "grit2_normal.png" (SCP-1499 dimension normal map 2) [Not sure if these 100% work yet]
-	- Updated "grit3.jpg" (SCP-1499 dimention texture 2)
-	- Created "grit3_normal.png" (SCP-1499 dimension normal map 2) [Not sure if these 100% work yet]
+	- Updated "grit3.jpg" (SCP-1499 dimention texture 3)
+	- Created "grit3_normal.png" (SCP-1499 dimension normal map 3) [Not sure if these 100% work yet]
 	- Updated "helmet.jpg" (Dead guard helmet texture)
 	- Updated "helmet_guard.jpg" (Standard guard helmet texture)
 	- Updated "medibay.jpg" (Medical Bay wall texture)
@@ -73,6 +78,18 @@ Map:
 	- Updated "SLH_miscsigns.jpg" (Signs 5 master texture)
 	- Created "SLH_miscsigns_normal.png" (Signs 5 master normal map)
 
+Sky:
+	- Updated "1499sky_back.jpg" (Back SCP-1499 dimension skybox element)
+	- Updated "1499sky_front.jpg" (Front SCP-1499 dimension skybox element)
+	- Updated "1499sky_left.jpg" (Left SCP-1499 dimension skybox element)
+	- Updated "1499sky_right.jpg" (Right SCP-1499 dimension skybox element)
+	- Updated "1499sky_up.jpg" (Up SCP-1499 dimension skybox element)
+	- Updated "sky_back.jpg" (Back normal skybox element)
+	- Updated "sky_front.jpg" (Front normal skybox element)
+	- Updated "sky_left.jpg" (Left normal skybox element)
+	- Updated "sky_right.jpg" (Right normal skybox element)
+	- Updated "sky_up.jpg" ("Up" normal skybox element)
+
 NPCs:
 	- Updated "035.jpg" (SCP-035 mask texture)
 	- Updated "035victim.jpg" (SCP-035 body texture)
@@ -89,18 +106,6 @@ NPCs:
 	- Updated "papertexture.jpg" (Document Texture)
 	- Updated "pdplane.png" (Pocket Dimension Trench Plane 1 texture)
 	- Updated "pdplaneeye.png" (Pocket Dimension Trench Plane 2 texture)
-
-Sky:
-	- Updated "1499sky_back.jpg" (Back SCP-1499 dimension skybox element)
-	- Updated "1499sky_front.jpg" (Front SCP-1499 dimension skybox element)
-	- Updated "1499sky_left.jpg" (Left SCP-1499 dimension skybox element)
-	- Updated "1499sky_right.jpg" (Right SCP-1499 dimension skybox element)
-	- Updated "1499sky_up.jpg" (Up SCP-1499 dimension skybox element)
-	- Updated "sky_back.jpg" (Back normal skybox element)
-	- Updated "sky_front.jpg" (Front normal skybox element)
-	- Updated "sky_left.jpg" (Left normal skybox element)
-	- Updated "sky_right.jpg" (Right normal skybox element)
-	- Updated "sky_up.jpg" ("Up" normal skybox element)
 
 Misc:
 	- Fixed typos and some formatting in the changelog
@@ -119,11 +124,6 @@ Items:
 	- Updated "nav.jpg" (Navigator item texture)
 	- Updated "radio.png" (Radio item texture)
 	- Updated "wallet_tex.jpg" (Wallet item texture)
-
-Loading Screens:
-	- Replaced "mtf.png" with "mtf_2.png"
-	- Updated "scp-096.png" to "scp-096_1.png"
-	- Created "scp-096_2.png" (previously "scp-096.png")
 
 Map:
 	- Updated "2_office_lamps_dif.jpg" (Lamp map object master texture)
@@ -150,6 +150,11 @@ NPCs:
 	- Updated "106_diffuse.jpg" (SCP-106 texture)
 	- Updated "guard_diffuse.jpg" (Guard body texture)
 
+Loading Screens:
+	- Replaced "mtf.png" with "mtf_2.png"
+	- Updated "scp-096.png" to "scp-096_1.png"
+	- Created "scp-096_2.png" (previously "scp-096.png")
+
 Misc:
 	- Updated Promotional Material Organization
 	- Fixed a few errors in "materials.ini" (incorrect normal map allocations, typos, etc.)
@@ -163,6 +168,7 @@ Misc:
 
 v1.0.5 -------------------------------------------------------------------------------------------------------------
 
+"Unnamed Update / "Mega Patch 1"
 	Large changes, upscales, and improvements to important textures and normal maps. General changes to
 textures that were over-sharpened or too high contrast. Removal of unnecessary, unused, and redundant normal maps.
 Preparations to use a custom built executable which could enable higher resolution menu screens and performance 
@@ -173,41 +179,6 @@ GFX:
 	- Updated "flash.jpg" (Muzzle flash effect texture)
 	- Updated "SL_monitors.jpg" (Security Room Camera Screens)
 	- Updated "SL_monitors_checkpoint.jpg" (Security Room Camera Screens for Checkpoints)
-
-Loading Screens (no choose your own resolution needed, all are the size of vanilla):
-	- Changed 012.jpg to scp-012.png
-	- Updated 035.jpg to scp-035.png
-	- Updated 049.jpg to scp-049.png
-	- Changed 066.jpg to scp-066.png
-	- Changed 079.jpg to scp-079.png
-	- Updated 096.png to scp-096.png
-	- Updated 106.jpg to scp-106.png
-	- Changed 173.jpg to scp-173.png
-	- Changed 205.jpg to scp-205.png
-	- Changed 294.jpg to scp-294.png
-	- Changed 372.jpg to scp-372.png
-	- Changed 427.jpg to scp-427.png
-	- Changed 500.jpg to scp-500.png
-	- Changed 513.jpg to scp-513.png
-	- Changed 682.jpg to scp-682.png
-	- Changed 714.jpg to scp-714.png
-	- Changed 860.jpg to scp-860.png
-	- Changed 895.jpg to scp-895.png
-	- Changed 914.jpg to scp-914.png
-	- Changed 939.jpg to scp-939.png
-	- Changed 966.jpg to scp-966.png
-	- Changed 970.jpg to scp-970.png
-	- Changed 1025.jpg to scp-1025.png
-	- Changed 1123.jpg to scp-1123.png
-	- Changed 1162.jpg to scp-1162.png
-	- Updated 1499.jpg to scp-1499.png
-	- Updated chaos.jpg to chaos.png
-	- Changed classd.jpg to class-d.png
-	- Changed cwm.jpg to cwm.png
-	- Changed foundationlogo.jpg to scpfoundation.png
-	- Updated loadingback.jpg
-	- Updated mtf.jpg to mtf.png (mtf2.png for alternate version, will be decided later)
-	- Changed nvg.jpg to nvg.png
 
 Map:
 	- Updated "ceiling.jpg" (Ceiling texture)
@@ -267,6 +238,41 @@ NPCs:
 	- Updated "scp-049_clothing_diffuse4.jpg" (SCP-049 body texture)
 	- Updated "SCP096.jpg" (SCP-096 body texture)
 	- Updated "scp-939_licker_diffusetest01.jpg" (SCP-939 body texture)
+
+Loading Screens (no choose your own resolution needed, all are the size of vanilla):
+	- Changed 012.jpg to scp-012.png
+	- Updated 035.jpg to scp-035.png
+	- Updated 049.jpg to scp-049.png
+	- Changed 066.jpg to scp-066.png
+	- Changed 079.jpg to scp-079.png
+	- Updated 096.png to scp-096.png
+	- Updated 106.jpg to scp-106.png
+	- Changed 173.jpg to scp-173.png
+	- Changed 205.jpg to scp-205.png
+	- Changed 294.jpg to scp-294.png
+	- Changed 372.jpg to scp-372.png
+	- Changed 427.jpg to scp-427.png
+	- Changed 500.jpg to scp-500.png
+	- Changed 513.jpg to scp-513.png
+	- Changed 682.jpg to scp-682.png
+	- Changed 714.jpg to scp-714.png
+	- Changed 860.jpg to scp-860.png
+	- Changed 895.jpg to scp-895.png
+	- Changed 914.jpg to scp-914.png
+	- Changed 939.jpg to scp-939.png
+	- Changed 966.jpg to scp-966.png
+	- Changed 970.jpg to scp-970.png
+	- Changed 1025.jpg to scp-1025.png
+	- Changed 1123.jpg to scp-1123.png
+	- Changed 1162.jpg to scp-1162.png
+	- Updated 1499.jpg to scp-1499.png
+	- Updated chaos.jpg to chaos.png
+	- Changed classd.jpg to class-d.png
+	- Changed cwm.jpg to cwm.png
+	- Changed foundationlogo.jpg to scpfoundation.png
+	- Updated loadingback.jpg
+	- Updated mtf.jpg to mtf.png (mtf2.png for alternate version, will be decided later)
+	- Changed nvg.jpg to nvg.png
 
 Misc:
 	- Updated "credits.txt" (Game credits text file)
@@ -359,35 +365,6 @@ Items:
 	- Updated "shand_diffuse.png" (Severed Hand 1 item texture)
 	- Updated "shand2.png" (Severed Hand 2 item texture)
 	- Updated "skull1.png" (SCP-1123 item texture)
-
-Loading Screens (Pick the folder containing loading screens that match your play resolution):
-	- Updated "012.jpg"
-	- Updated "035.jpg"
-	- Updated "049.jpg"
-	- Updated "066.jpg"
-	- Updated "079.jpg"
-	- Updated "096.jpg"
-	- Updated "106.jpg"
-	- Updated "173.jpg"
-	- Updated "294.jpg"
-	- Updated "372.jpg"
-	- Updated "427.jpg"
-	- Updated "682.jpg"
-	- Updated "714.jpg"
-	- Updated "860.jpg"
-	- Updated "914.jpg"
-	- Updated "966.jpg"
-	- Updated "1074.jpg"
-	- Updated "1123.jpg"
-	- Updated "1162.jpg"
-	- Updated "1499.jpg"
-	- Updated "chaos.jpg"
-	- Updated "classd.jpg"
-	- Updated "cwm.jpg"
-	- Updated "foundationlogo.jpg"
-	- Updated "loadingscreens.ini"
-	- Updated "mtf.jpg"
-	- Updated "nvg.jpg"
 
 Map:
 	- Updated "2_office_lamps_dif.jpg" (Lamp map object master texture)
@@ -542,6 +519,13 @@ Map:
 	- Updated "zimmerframe1.jpg" (Medical bay room frame texture)
 	- Created "zimmerframe1bump.jpg" (Medical bay room frame normal map)
 
+Sky:
+	- Updated "sky_back.jpg" (Back normal skybox element)
+	- Updated "sky_front.jpg" (Front normal skybox element)
+	- Updated "sky_left.jpg" (Left normal skybox element)
+	- Updated "sky_right.jpg" (Right normal skybox element)
+	- Updated "sky_up.jpg" ("Up" normal skybox element)
+
 Menu:
 	- Updated "173back.jpg" (SCP-173 main menu element)
 	- Updated "back.jpg" (Primary main menu element)
@@ -595,9 +579,31 @@ NPCs:
 	- Updated "tentacle.jpg" (SCP-035 tentacle texture)
 	- Updated "zombie.jpg" (SCP-049-1 guard zombie texture)
 
-Sky:
-	- Updated "sky_back.jpg" (Back normal skybox element)
-	- Updated "sky_front.jpg" (Front normal skybox element)
-	- Updated "sky_left.jpg" (Left normal skybox element)
-	- Updated "sky_right.jpg" (Right normal skybox element)
-	- Updated "sky_up.jpg" ("Up" normal skybox element)
+Loading Screens (Pick the folder containing loading screens that match your play resolution):
+	- Updated "012.jpg"
+	- Updated "035.jpg"
+	- Updated "049.jpg"
+	- Updated "066.jpg"
+	- Updated "079.jpg"
+	- Updated "096.jpg"
+	- Updated "106.jpg"
+	- Updated "173.jpg"
+	- Updated "294.jpg"
+	- Updated "372.jpg"
+	- Updated "427.jpg"
+	- Updated "682.jpg"
+	- Updated "714.jpg"
+	- Updated "860.jpg"
+	- Updated "914.jpg"
+	- Updated "966.jpg"
+	- Updated "1074.jpg"
+	- Updated "1123.jpg"
+	- Updated "1162.jpg"
+	- Updated "1499.jpg"
+	- Updated "chaos.jpg"
+	- Updated "classd.jpg"
+	- Updated "cwm.jpg"
+	- Updated "foundationlogo.jpg"
+	- Updated "loadingscreens.ini"
+	- Updated "mtf.jpg"
+	- Updated "nvg.jpg"
