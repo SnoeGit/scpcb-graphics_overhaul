@@ -2,8 +2,8 @@ v1.0.7 -------------------------------------------------------------------------
 
 "General Map Update" / "Mega-Patch 2"
 	Large changes and improvements to a huge variety of map textures and normal maps.
-Finalized normal map naming convention change and improved almsot all normal maps. Item, 
-NPC, and many other texture improvements as well as much greater scrutiny converning normal
+Finalized normal map naming convention change and improved almost all normal maps. Item, 
+NPC, and many other texture improvements as well as much greater scrutiny concerning normal
 maps.
 
 GFX:
