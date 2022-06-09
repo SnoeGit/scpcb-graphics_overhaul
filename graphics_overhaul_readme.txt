@@ -10,6 +10,8 @@ This includes textures, normal maps, menus, icons, buttons, backgrounds, loading
 
 For most change please enable bump mapping as we'd hate for all of our new normal maps to go unnoticed.
 
+To enable reshade, drag all contents from reshade folder into the game's root folder.
+
 ----------------------------------------------------
 
 This mod will be updated semi-regularly until notice of it's full cocmpletion. 
