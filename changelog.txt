@@ -14,6 +14,7 @@ Menu:
 	- Updated "menuwhite.jpg" (Miscellaneous white menu element)
 
 Misc:
+	- Removed non-mod game files in order to make installation more modular
 	- Removed optional reshade files due to licensing issue
 	- Several typo fixes in readme and changelog
 
