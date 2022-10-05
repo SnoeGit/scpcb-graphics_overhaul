@@ -1,12 +1,27 @@
-v1.0.7.5 -----------------------------------------------------------------------------------------------------------
+v1.0.8 - "Update Name" (Indev)
 
-"Reshade Update"
-	Added reshade setup files in seperate directory.
+Description
 
-v1.0.7 -------------------------------------------------------------------------------------------------------------
+GFX:
+	- Updated "InfectOverlay.jpg" (Infection screen overlay texture)
+	- Updated "NightVisionOverlay.jpg" (Night Vision screen overlay texture)
 
-"General Map Update" / "Mega-Patch 2"
-	Large changes and improvements to a huge variety of map textures and normal maps.
+Map:
+	- Updated "sun.jpg" (Exterior sun sprite texture)
+
+Menu:
+	- Updated "menublack.jpg" (Miscellaneous black menu element)
+	- Updated "menuwhite.jpg" (Miscellaneous white menu element)
+
+Misc:
+	- Removed optional reshade files due to licensing issue
+	- Several typo fixes in readme and changelog
+
+
+
+v1.0.7 - "General Map Update" / "Mega-Patch 2"
+
+Large changes and improvements to a huge variety of map textures and normal maps.
 Finalized normal map naming convention change and improved almost all normal maps. Item, 
 NPC, and many other texture improvements as well as much greater scrutiny concerning normal
 maps.
@@ -136,12 +151,13 @@ Misc:
 	- Removed "scplogobump.jpg" (SCP Logo normal map) [Looks Better Without]
 	- Removed "SLH_miscsigns_normal.png" (Signs 5 master normal map) [Looks Better Without]
 
-v1.0.6 -------------------------------------------------------------------------------------------------------------
 
-"Dimensional Update"
-	Dramatic improvements to textures used for the pocket dimension, 860-1 dimension, and 1499 dimension. Miscellanious
+
+v1.0.6 - "Dimensional Update"
+
+Dramatic improvements to textures used for the pocket dimension, 860-1 dimension, and 1499 dimension. Miscellaneous
 improvements to various textures including item and NPC textures. Additionally improved skybox tiles and some dimension
-based spirtes, decals, etc.
+based sprites, decals, etc.
 
 GFX:
 	- Updated "blooddrop1.png" (Blood drop decal 1)
@@ -189,9 +205,9 @@ Map:
 	- Updated "forestpathbump.jpg" to "forestpath_normal.png" (SCP-860-1 forest path normal map)
 	- Updated "grit1.jpg" (SCP-1499 dimension texture 1)
 	- Created "grit1_normal.png" (SCP-1499 dimension normal map 1) [Not sure if these 100% work yet]
-	- Updated "grit2.jpg" (SCP-1499 dimention texture 2)
+	- Updated "grit2.jpg" (SCP-1499 dimension texture 2)
 	- Created "grit2_normal.png" (SCP-1499 dimension normal map 2) [Not sure if these 100% work yet]
-	- Updated "grit3.jpg" (SCP-1499 dimention texture 3)
+	- Updated "grit3.jpg" (SCP-1499 dimension texture 3)
 	- Created "grit3_normal.png" (SCP-1499 dimension normal map 3) [Not sure if these 100% work yet]
 	- Updated "helmet.jpg" (Dead guard helmet texture)
 	- Updated "helmet_guard.jpg" (Standard guard helmet texture)
@@ -248,9 +264,11 @@ NPCs:
 Misc:
 	- Fixed typos and some formatting in the changelog
 
-v1.0.5.1 -------------------------------------------------------------------------------------------------------------
 
-	More texture improvements, especially on smaller textures that have looked terrible since 1.0. A few
+
+v1.0.5.1 - "Mega Patch 1 Hotfix"
+
+More texture improvements, especially on smaller textures that have looked terrible since 1.0. A few
 improvements to larger textures and a few more loading screen and menu improvements. Additionally slowly updating
 naming convention for "bump" map files as well as now exporting them as higher quality pngs and being much more
 scrutinous with what textures actually use them.
@@ -304,10 +322,11 @@ Misc:
 	- Removed "officeseat_abump.jpg" (Office chair object normal map) [Unused]
 	- Removed "tree1bump.jpg" (I believe this is for the now removed scp-038) [Unused]
 
-v1.0.5 -------------------------------------------------------------------------------------------------------------
 
-"Unnamed Update / "Mega Patch 1"
-	Large changes, upscales, and improvements to important textures and normal maps. General changes to
+
+v1.0.5 - "Unnamed Update / "Mega Patch 1"
+
+Large changes, upscales, and improvements to important textures and normal maps. General changes to
 textures that were over-sharpened or too high contrast. Removal of unnecessary, unused, and redundant normal maps.
 Preparations to use a custom built executable which could enable higher resolution menu screens and performance 
 improvements. Remake of loading screen formatting with a few loading screen remakes. 
@@ -426,9 +445,11 @@ Misc:
 	- Removed "rockbump.jpg" (SCP-860-1 rock normal map) [Redundant]
 	- Removed "zimmerframe1bump.jpg" (Medical bay room frame normal map) [Unused]
 
-v1.0.1 -------------------------------------------------------------------------------------------------------------
 
-	General changes to a few textures to make them less overly sharpened, a few normal map changes that
+
+v1.0.1 - "Unnamed Update"
+
+General changes to a few textures to make them less overly sharpened, a few normal map changes that
 previously looked not that great, a few changes to UI elements to make them less 'over-contrasty', and some general
 texture cleanup for some of them that didn't look great.
 
@@ -460,7 +481,9 @@ Misc:
 	- Removed "Door02bump.jpg" (Class D cell door normal map)
 	- Removed "woodbump.jpg" (General wood normal map)
 
-v1.0 ---------------------------------------------------------------------------------------------------------------
+
+
+v1.0 - "Initial Release"
 
 GFX:
 	- Updated "apachetexture.jpg" (Apache NPC texture)
