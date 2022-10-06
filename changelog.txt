@@ -14,7 +14,6 @@ Menu:
 	- Updated "menuwhite.jpg" (Miscellaneous white menu element)
 
 Misc:
-	- Removed non-mod game files in order to make installation more modular
 	- Removed optional reshade files due to licensing issue
 	- Several typo fixes in readme and changelog
 
@@ -329,8 +328,8 @@ v1.0.5 - "Unnamed Update / "Mega Patch 1"
 
 Large changes, upscales, and improvements to important textures and normal maps. General changes to
 textures that were over-sharpened or too high contrast. Removal of unnecessary, unused, and redundant normal maps.
-Preparations to use a custom built executable which could enable higher resolution menu screens and performance 
-improvements. Remake of loading screen formatting with a few loading screen remakes. 
+Preparations to use a custom built executable which could enable higher resolution menu screens and performance
+improvements. Remake of loading screen formatting with a few loading screen remakes.
 
 GFX:
 	- Updated "dust.jpg" (Dust particle texture) [Eat your heart out over our HD dust particles)
