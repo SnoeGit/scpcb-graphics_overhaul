@@ -29,7 +29,7 @@ For recent updates either check the pushes to this repo or the [changelog](chang
 
 SCP - Containment Breach is independently developed and published by Undertow Games.
 
-This mod **ONLY** contains modified texture and material files, **NO** executable or other source files. **THIS DOES NOT INCLUDE A COPY OF THE GAME, YOU NEED TO DOWNLOAD IT EITHER ON THE WEBSITE OR GITHUB**.
+As of v1.0.9, this mod **ONLY** contains modified texture and material files, **NO** executable or other source files. **THIS DOES NOT INCLUDE A COPY OF THE GAME, YOU NEED TO DOWNLOAD IT EITHER ON THE WEBSITE OR GITHUB**.
 
 The game is based on the works of the [SCP Foundation community](http://www.scp-wiki.net/).
 
