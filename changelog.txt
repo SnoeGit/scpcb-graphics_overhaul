@@ -3,12 +3,33 @@ v1.0.8 - "Update Name" (Indev)
 Description
 
 GFX:
+	- Updated "BlinkIcon.png" (Blink Icon UI element)
+	- Updated "blooddrop1.png" (Blood drop decal 1)
+	- Updated "blooddrop2.png" (Blood drop decal 2)
+	- Updated "bloodsprite.png" (Blood sprite decal)
+	- Updated "decal1.png" (SCP-106 corrosion decal 1)
+	- Updated "decal2.png" (SCP-106 corrosion decal 2)
+	- Updated "decal3.png" (Blood decal 1)
+	- Updated "decal4.png" (Blood decal 2)
+	- Updated "decal5.png" (SCP-173 residue decal 1)
+	- Updated "decal6.png" (SCP-173 residue decal 2)
+	- Updated "decal7.png" (SCP-173 residue decal 3)
+	- Updated "decal8.png" (Blood decal 3)
 	- Updated "handsymbol.jpg" (Interact 1 UI element)
 	- Updated "handsymbol2.jpg" (Interact 2 UI Element)
 	- Updated "InfectOverlay.jpg" (Infection screen overlay texture)
 	- Updated "NightVisionOverlay.jpg" (Night Vision screen overlay texture)
+	- Updated "red.jpg" (Red screen overlay texture)
 	- Updated "sneakicon.png" (Sneak Icon UI element)
 	- Updated "sprinticon.png" (Sprint Icon UI element)
+
+895pics:
+	- Updated "pic1.jpg" (895 Horror Image 1)
+	- Updated "pic2.jpg" (895 Horror Image 2)
+	- Updated "pic3.jpg" (895 Horror Image 3)
+	- Updated "pic4.jpg" (895 Horror Image 4)
+	- Updated "pic5.jpg" (895 Horror Image 5)
+	- Updated "pic6.jpg" (895 Horror Image 6)
 
 Items:
 	- Updated "427.jpg" (SCP-427 item texture)
