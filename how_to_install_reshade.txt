@@ -1,0 +1,32 @@
+Many of the promotional/example screenshots of this mod utilize various effects from reshade; mostly Anti-Aliasing, Ambient Occlusion, Radiant GI, and Sharpening. The following guides are meant to explain how to install reshade in order to use the same effects.
+
+
+
+Short Guide:
+
+1. Download dgVoodoo2 from the following page: http://dege.freeweb.hu/dgVoodoo2/dgVoodoo2/ (recommend latest stable version) [If worried about security please visit this page and read the text at the bottom: http://dege.freeweb.hu/dgVoodoo2/]
+
+2. Copy "dgVoodooCpl.exe", "dgVoodoo.conf", and the contents of "\dgVoodoo2_79_3\MS\x86\" to your CB root folder (where the .exe is)
+
+3. Launch dgVoodooCpl.exe and make sure the specified settings are set correctly
+
+Under the "General" tab:
+	- Output API >>> "Best available one"
+	- Adapter(s) to use / enable >>> (Select your GPU)
+
+Under the "DirectX" tab:
+	- VRAM >>> (Select an amount of allocated VRAM that your GPU can handle)
+	- Antialiasing (MSAA) >>> "App driven" or "Off" (Forced MSAA will mess up depth buffer handling of reshade)
+	- dgVoodoo Watermark >>> (Disable if you don't want the watermark in the bottom right of your screen, would recommend keeping it on while testing to make sure it's working as intended)
+
+4. Make sure "Config folder / Running instance" is set to your CB root folder, apply your settings, and hit OK to exit
+
+5. Download the official Reshade Installer from the following page: https://reshade.me
+
+6. Install reshade to the SCP - Containment Breach executable, pick DirectX 10, 11, 12 installation, and pick your shader packages of choice
+
+7. Launch SCP - Containment Breach and check if reshade starts compiling the shaders within the launcher (you don't need to let it finish as it will have to do so again anyways once the actual game window opens)
+
+8. In game, make sure "Generic Depth Buffer" is enabled under addons and use a shader such as anti-aliasing (SMAA) or ambient occlusion (MXAO, GloomAO) to check if the depth buffer is being read correctly
+
+9. If reshade is properly compiling shaders and the depth buffer is being properly read then you're good to go. Have fun adding and adjusting effects as you please
