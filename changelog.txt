@@ -1,6 +1,9 @@
-v1.0.8 - "Update Name" (Indev)
+v1.0.8 - "UI and Interface Update" (Indev)
 
-Description
+Interface consistency and readability improvements.
+Improvements to font darkness and thickness for most documents.
+Achievements icon improvements and coloring.
+Various item and other texture improvements.
 
 GFX:
 	- Updated "BlinkIcon.png" (Blink Icon UI element)
@@ -34,6 +37,9 @@ GFX:
 Items:
 	- Updated "427.jpg" (SCP-427 item texture)
 	- Updated "513.jpg" (SCP-513 item texture)
+	- Updated "Battery 9V.jpg" (9V battery item texture)
+	- Updated "Battery 18V.jpg" (18V battery item texture)
+	- Updated "Strange Battery.jpg" (Strange battery item texture)
 	- Updated "doc_arce.jpg" (Archive note)
 	- Updated "doc008.jpg" (SCP-008 document)
 	- Updated "doc012.jpg" (SCP-012 document)
@@ -151,6 +157,7 @@ Achievements:
 	- Updated "AchvTesla.jpg" (Tesla Gate Achievement Icon)
 
 Misc:
+	- Added "how_to_install_reshade" tutorial file (only short guide finished currently)
 	- Removed optional reshade files due to licensing issue
 	- Several typo fixes in readme and changelog
 
